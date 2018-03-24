@@ -1,5 +1,5 @@
-#include "ASA_Lib.h"
-
+﻿#include "ASA_Lib.h"
+///////////
 //io set
 #define Hundreds 1<<PA1     //百位數
 #define Tens     1<<PA2     //十位數
